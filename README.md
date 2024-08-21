@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-Actually there is in nothing yet
+Actually there is nothing yet
 
